@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [KMG Imports](https://swagata-codearts.github.io/kmg/),[Good Web Design](https://swagata-codearts.github.io/goodwebdesign/)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React & Tailwind CSS<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on [KMG Imports](https://swagata-codearts.github.io/kmg/), [Good Web Design](https://swagata-codearts.github.io/goodwebdesign/)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React & Tailwind CSS<br>💬 Ask me about<br>⚡ Fun fact
 
 [![](https://visitcount.itsvg.in/api?id=swagata-codearts&icon=0&color=9)](https://visitcount.itsvg.in)
 
